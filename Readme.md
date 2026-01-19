@@ -78,9 +78,9 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 
 `./assets/fonts`
 
-<img align="left" width="18%" alt="." src="./releases/fonts/nunito-sans.png">
-<img align="left" width="18%" alt="." src="./releases/fonts/ubuntu-mono.png">
-<img align="left" width="16%" alt="." src="./releases/fonts/ubuntu-mono-nerd-font.svg">
+<img align="left" width="18%" alt="." src="./media/fonts/nunito-sans.png">
+<img align="left" width="18%" alt="." src="./media/fonts/ubuntu-mono.png">
+<img align="left" width="16%" alt="." src="./media/fonts/ubuntu-mono-nerd-font.svg">
 
 | Fuente | Uso |
 | :----- | --- |
