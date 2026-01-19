@@ -34,6 +34,13 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 ---
 ---
 
+### Archivos
+
+* `logo.`, `template.svg`: Archivos base para modificación.
+* `logo-main-.`: Isotipos SVG generados a partir de `template.svg` para iconos medianos y grandes.
+* `symbolic-.`: Isotipos SVG generados a partir de `template.svg` para iconos representativos/pequeños.
+* `icon-`: Iconos PNG generados a partir de `logo-main-.` y `symbolic-.`.
+
 ## Paleta de colores
 
 ### Tema claro
@@ -59,13 +66,6 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 |Purpura     |![#fe4aa3](https://placehold.co/16x16/fe4aa3/fe4aa3.png) `#fe4aa3`|
 |Rojo        |![#ff4f5e](https://placehold.co/16x16/ff4f5e/ff4f5e.png) `#ff4f5e`|
 |Naranja     |![#ffbd4f](https://placehold.co/16x16/ffbd4f/ffbd4f.png) `#ffbd4f`|
-
-### Archivos
-
-* `logo.`, `template.svg`: Archivos base para modificación.
-* `logo-main-.`: Isotipos SVG generados a partir de `template.svg` para iconos medianos y grandes.
-* `symbolic-.`: Isotipos SVG generados a partir de `template.svg` para iconos representativos/pequeños.
-* `icon-`: Iconos PNG generados a partir de `logo-main-.` y `symbolic-.`.
 
 ## Estilos y Temas
 
