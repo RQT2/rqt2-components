@@ -111,9 +111,9 @@ Iconos simbolicos: En combinación con [Nerd Fonts](https://www.nerdfonts.com/ch
 `./assets/fonts`
 
 
-<img align="left" height="220px" alt="." src=".releases/fonts/nunito-sans.png">
-<img align="left" height="220px" alt="." src=".releases/fonts/ubuntu-mono.png">
-<img align="left" height="220px" alt="." src="https://www.nerdfonts.com/assets/img/previews/UbuntuMono%20Nerd%20Font.svg">
+<img align="left" width="18%" alt="." src="./releases/fonts/nunito-sans.png">
+<img align="left" width="18%" alt="." src="./releases/fonts/ubuntu-mono.png">
+<img align="left" width="16%" alt="." src="https://www.nerdfonts.com/assets/img/previews/UbuntuMono%20Nerd%20Font.svg">
 
 | Fuente | Uso |
 | :----- | --- |
