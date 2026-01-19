@@ -67,6 +67,27 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 * `symbolic-.`: Isotipos SVG generados a partir de `template.svg` para iconos representativos/pequeños.
 * `icon-`: Iconos PNG generados a partir de `logo-main-.` y `symbolic-.`.
 
+## Estilos y Temas
+
+`./styles`
+
+* **palette.json**: Diccionario main de colores para uso en `Qt`>`Pyside6`.
+* **themes/**: Temas de colores `.qss`.
+
+## Tipografía
+
+`./assets/fonts`
+
+<img align="left" width="18%" alt="." src="./releases/fonts/nunito-sans.png">
+<img align="left" width="18%" alt="." src="./releases/fonts/ubuntu-mono.png">
+<img align="left" width="16%" alt="." src="./releases/fonts/ubuntu-mono-nerd-font.svg">
+
+| Fuente | Uso |
+| :----- | --- |
+| **Nunito Sans** | Interfaz (UI). |
+| **Ubuntu Mono** | Código/Terminal. |
+| **Nerd Fonts** | Iconos. |
+
 ## Iconos
 
 `./assets/branding`
@@ -103,24 +124,3 @@ Iconos simbolicos: En combinación con [Nerd Fonts](https://www.nerdfonts.com/ch
 | <img align="left" width="22px" alt="." src="/assets/icons/restore/default.svg"> | `restore` | Window button: Restaura el tamaño de la ventana. |
 | <img align="left" width="22px" alt="." src="/assets/icons/tab/default.svg"> | `split` | Window button: Abre una terminal. |
 | <img align="left" width="22px" alt="." src="/assets/icons/split/default.svg"> | `tab` | Window button: Cierra la terminal. |
-
-## Estilos y Temas
-
-`./styles`
-
-* **palette.json**: Diccionario main de colores para uso en `Qt`>`Pyside6`.
-* **themes/**: Temas de colores `.qss`.
-
-## Tipografía
-
-`./assets/fonts`
-
-<img align="left" width="18%" alt="." src="./releases/fonts/nunito-sans.png">
-<img align="left" width="18%" alt="." src="./releases/fonts/ubuntu-mono.png">
-<img align="left" width="16%" alt="." src="./releases/fonts/ubuntu-mono-nerd-font.svg">
-
-| Fuente | Uso |
-| :----- | --- |
-| **Nunito Sans** | Interfaz (UI). |
-| **Ubuntu Mono** | Código/Terminal. |
-| **Nerd Fonts** | Iconos. |
