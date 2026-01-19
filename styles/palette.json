@@ -1,0 +1,37 @@
+{
+  "project": "RQT2",
+  "themes": {
+    "light": {
+      "background": "#ffffff",
+      "color": "#000000",
+      "accent": "#0090ff",
+      "success": "#068989",
+      "warning": "#e5a436",
+      "error": "#ff4f5e",
+      "neutral": "#000000",
+      "blue": "#0090ff",
+      "green": "068989",
+      "purple": "c60184",
+      "red": "ff4f5e",
+      "orange": "e5a436"
+    },
+    "dark": {
+      "background": "#000000",
+      "color": "#ffffff",
+      "accent": "#0090ff",
+      "success": "#3fe1b0",
+      "warning": "#ffbd4f",
+      "error": "#ff4f5e",
+      "neutral": "#ffffff",
+      "blue": "#0090ff",
+      "green": "#3fe1b0",
+      "purple": "#fe4aa3",
+      "red": "#ff4f5e",
+      "orange": "#ffbd4f"
+    }
+  },
+  "middleware": {
+    "ros_blue": "#0090ff",
+    "terminal_black": "#0d0d0d"
+  }
+}
