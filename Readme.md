@@ -1,6 +1,6 @@
 <h1><img align="left" width="128px" alt="." src="./assets/branding/logo-main-color.svg"> RQT2 Components </h1>
 
-Sistema de diseño y libería de componentes base para **[RQT2](https://github.com/RQT2)**. Contine los recursos y estilos compartidos necesariso para todo el font-end de la IDE.
+Sistema de diseño y libería de componentes base para **[RQT2](https://github.com/RQT2)**. Contine los recursos y estilos compartidos necesariso para todo el front-end de la IDE.
 
 > [!CAUTION]
 > Al modificar un recurso aquí, los cambios se reflejan en todo el proyecto.
