@@ -30,9 +30,9 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 |Primer plano|![#000000](https://placehold.co/16x16/000000/000000.png) `#000000`|
 |Azul        |![#0090ff](https://placehold.co/16x16/0090ff/0090ff.png) `#0090ff`|
 |Verde       |![#068989](https://placehold.co/16x16/068989/068989.png) `#068989`|
-|Purpura     |![#c60184](https://placehold.co/16x16/0090ff/0090ff.png) `#c60184`|
-|Rojo        |![#ff4f5e](https://placehold.co/16x16/0090ff/0090ff.png) `#ff4f5e`|
-|Naranja     |![#e5a436](https://placehold.co/16x16/0090ff/0090ff.png) `#e5a436`|
+|Purpura     |![#c60184](https://placehold.co/16x16/c60184/c60184.png) `#c60184`|
+|Rojo        |![#ff4f5e](https://placehold.co/16x16/ff4f5e/ff4f5e.png) `#ff4f5e`|
+|Naranja     |![#e5a436](https://placehold.co/16x16/e5a436/e5a436.png) `#e5a436`|
 
 ### Tema oscuro
 
