@@ -112,15 +112,15 @@ Iconos simbolicos: En combinación con [Nerd Fonts](https://www.nerdfonts.com/ch
 | <img align="left" width="22px" alt="." src="/assets/icons/unsynchronize/default.svg"> | `synchronize` | Se conecta a topicos como publicador o subscriptor. |
 | <img align="left" width="22px" alt="." src="/assets/icons/synchronize/default.svg"> | `unsynchronize` | Se desconecta de topicos anteriormente conectado desde la IDE. |
 | <img align="left" width="22px" alt="." src="/assets/icons/new/default.svg"> | `new` | Crea elementos nuevos (paquetes/lanzadores/nodos). |
-| <img align="left" width="22px" alt="." src="/assets/icons/nodes/default.svg"> | `nodes` | Abre ventana `node-graph` (parecido a `rqt_graph`). |
+| <img align="left" width="22px" alt="." src="/assets/icons/nodes/default.svg"> | `nodes` | Abre `node-graph` (una ventana parecida a `rqt_graph`). |
 | <img align="left" width="22px" alt="." src="/assets/icons/params/default.svg"> | `params` | Abre un fomulario para editar parametros de nodos (`ros2 param set`). |
 | <img align="left" width="22px" alt="." src="/assets/icons/record/default.svg"> | `record` | Graba los datos publicados sobre un topico con `ros2 bag`. |
 | <img align="left" width="22px" alt="." src="/assets/icons/play/default.svg"> | `play` | Reproduce los datos grabados de un topico con `ros2 bag`. |
 | <img align="left" width="22px" alt="." src="/assets/icons/ssh/default.svg"> | `ssh` | Abre un formulario para establecer una conexión SSH. |
 | <img align="left" width="22px" alt="." src="/assets/icons/teleop/default.svg"> | `teleop` | Abre un formulario para enviar instrucciones de control manual con `ros2 teleop`. |
 | <img align="left" width="22px" alt="." src="/assets/icons/close/default.svg"> | `close` | Window button: Cerrar ventana. |
-| <img align="left" width="22px" alt="." src="/assets/icons/minimize/default.svg"> | `maximize` | Window button: Maximizar ventana. |
-| <img align="left" width="22px" alt="." src="/assets/icons/maximize/default.svg"> | `minimize` | Window button: Minimizar ventana. |
-| <img align="left" width="22px" alt="." src="/assets/icons/restore/default.svg"> | `restore` | Window button: Restaura el tamaño de la ventana. |
+| <img align="left" width="22px" alt="." src="/assets/icons/minimize/default.svg"> | `minimize` | Window button: Minimizar ventana. |
+| <img align="left" width="22px" alt="." src="/assets/icons/restore/default.svg"> | `maximize` | Window button: Maximizar ventana. |
+| <img align="left" width="22px" alt="." src="/assets/icons/maximize/default.svg"> | `restore` | Window button: Restaura el tamaño de la ventana. |
 | <img align="left" width="22px" alt="." src="/assets/icons/tab/default.svg"> | `split` | Window button: Abre una terminal. |
 | <img align="left" width="22px" alt="." src="/assets/icons/split/default.svg"> | `tab` | Window button: Cierra la terminal. |
