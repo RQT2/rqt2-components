@@ -59,7 +59,7 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 
 | Rol        | Color |
 | :----------|-------|
-|Fondo       |![#000000](https://placehold.co/16x16/000000/000000.png) `#000000`|
+|Fondo       |![#121212](https://placehold.co/16x16/121212/121212.png) `#121212`|
 |Primer plano|![#ffffff](https://placehold.co/16x16/ffffff/ffffff.png) `#ffffff`|
 |Azul        |![#0090ff](https://placehold.co/16x16/0090ff/0090ff.png) `#0090ff`|
 |Verde       |![#3fe1b0](https://placehold.co/16x16/3fe1b0/3fe1b0.png) `#3fe1b0`|
