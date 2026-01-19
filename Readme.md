@@ -20,6 +20,20 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 └── README.md
 ```
 
+## Logo
+
+`./assets/branding`
+
+<img align="left" width="128px" alt="." src="./assets/branding/logo-main-color.svg">
+<img align="left" width="128px" alt="." src="./assets/branding/logo-main-dark.svg">
+<img align="left" width="128px" alt="." src="./assets/branding/logo-main-light.svg">
+
+---
+---
+---
+---
+---
+
 ## Paleta de colores
 
 ### Tema claro
@@ -45,20 +59,6 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 |Purpura     |![#fe4aa3](https://placehold.co/16x16/fe4aa3/fe4aa3.png) `#fe4aa3`|
 |Rojo        |![#ff4f5e](https://placehold.co/16x16/ff4f5e/ff4f5e.png) `#ff4f5e`|
 |Naranja     |![#ffbd4f](https://placehold.co/16x16/ffbd4f/ffbd4f.png) `#ffbd4f`|
-
-## Logo
-
-`./assets/branding`
-
-<img align="left" width="128px" alt="." src="./assets/branding/logo-main-color.svg">
-<img align="left" width="128px" alt="." src="./assets/branding/logo-main-dark.svg">
-<img align="left" width="128px" alt="." src="./assets/branding/logo-main-light.svg">
-
----
----
----
----
----
 
 ### Archivos
 
