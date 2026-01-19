@@ -20,6 +20,32 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 └── README.md
 ```
 
+## Paleta de colores
+
+### Tema claro
+
+| Rol        | Color |
+|------------|-------|
+|Fondo       |![#ffffff](https://placehold.co/16x16/ffffff/ffffff.png) `#ffffff`|
+|Primer plano|![#000000](https://placehold.co/16x16/000000/000000.png) `#000000`|
+|Azul        |![#0090ff](https://placehold.co/16x16/0090ff/0090ff.png) `#0090ff`|
+|Verde       |![#068989](https://placehold.co/16x16/068989/068989.png) `#068989`|
+|Purpura     |![#c60184](https://placehold.co/16x16/0090ff/0090ff.png) `#c60184`|
+|Rojo        |![#ff4f5e](https://placehold.co/16x16/0090ff/0090ff.png) `#ff4f5e`|
+|Naranja     |![#e5a436](https://placehold.co/16x16/0090ff/0090ff.png) `#e5a436`|
+
+### Tema oscuro
+
+| Rol        | Color |
+|------------|-------|
+|Fondo       |![#000000](https://placehold.co/16x16/000000/000000.png) `#000000`|
+|Primer plano|![#ffffff](https://placehold.co/16x16/ffffff/ffffff.png) `#ffffff`|
+|Azul        |![#0090ff](https://placehold.co/16x16/0090ff/0090ff.png) `#0090ff`|
+|Verde       |![#3fe1b0](https://placehold.co/16x16/3fe1b0/3fe1b0.png) `#3fe1b0`|
+|Purpura     |![#fe4aa3](https://placehold.co/16x16/fe4aa3/fe4aa3.png) `#fe4aa3`|
+|Rojo        |![#ff4f5e](https://placehold.co/16x16/ff4f5e/ff4f5e.png) `#ff4f5e`|
+|Naranja     |![#ffbd4f](https://placehold.co/16x16/ffbd4f/ffbd4f.png) `#0090ff`|
+
 ## Logo
 
 `./assets/branding`
@@ -30,14 +56,6 @@ Sistema de diseño y libería de componentes base para **[RQT2](https://github.c
 * `logo-main-.`: Isotipos SVG generados a partir de `template.svg` para iconos medianos y grandes.
 * `symbolic-.`: Isotipos SVG generados a partir de `template.svg` para iconos representativos/pequeños.
 * `icon-`: Iconos PNG generados a partir de `logo-main-.` y `symbolic-.`.
-
-#### Temas
-
-|     | **Fondo** | **Isotipo** |
-|-----|-----------|-------------|
-|color|![#ffffff](https://placehold.co/16x16/ffffff/ffffff.png) `#ffffff`|![#0090ff](https://placehold.co/16x16/0090ff/0090ff.png) `#0090ff`|
-|light|![#ffffff](https://placehold.co/16x16/ffffff/ffffff.png) `#ffffff`|![#000000](https://placehold.co/16x16/000000/000000.png) `#000000`|
-|dark|![#000000](https://placehold.co/16x16/000000/000000.png) `#ffffff`|![#ffffff](https://placehold.co/16x16/ffffff/ffffff.png) `#ffffff`|
 
 ## Iconos
 
@@ -75,8 +93,6 @@ Iconos simbolicos: En combinación con [Nerd Fonts](https://www.nerdfonts.com/ch
 |<img align="left" width="16px" alt="." src="/assets/icons/restore/default.svg"> | `restore` | Window button: Restaura el tamaño de la ventana|
 |<img align="left" width="16px" alt="." src="/assets/icons/tab/default.svg"> | `split` | Window button: Abre una terminal |
 |<img align="left" width="16px" alt="." src="/assets/icons/split/default.svg"> | `tab` | Window button: Cierra la terminal |
-
-## Paleta de colores
 
 ## Estilos y Temas
 
