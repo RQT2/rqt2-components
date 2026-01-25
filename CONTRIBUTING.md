@@ -16,7 +16,6 @@
 Para asegurar que los iconos se rendericen correctamente en PySide6 y escalen sin distorsión:
 - **Dimensiones:** El canvas debe ser de **1920x1920px**.
 - **Trazos:** Convierte todos los trazos (*strokes*) a caminos (*paths*).
-- **Color:** Usa `currentColor` o los códigos hex de nuestra [Paleta Detallada](./styles/PALETTE.md).
 
 ### 2. Nomenclatura de Archivos
 - **kebab-case**
@@ -31,7 +30,7 @@ Si vas a añadir un icono:
    2. Agrega las capas necesarias para las variantes del icono **default**, **hover** y **active**/**click**.
    3. Exporta las variantes del icono como archivos SVG.
 2. Crea la carpeta con el nombre del icono dentro de `assets/icons`
-   1. Añade el archivo base y sus varintes: `default.svg`, `hover.svg`, `click.svg`.
+   1. Añade el archivo base y sus variantes: `default.svg`, `hover.svg`, `click.svg`.
 
 ---
 
