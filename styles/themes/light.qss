@@ -89,7 +89,7 @@ QPushButton[role="close"][variant="default"]
 {
   background: #e5e5e5;
   color: #000000;
-  border: 1px solid #d5d5d5;
+  border: 1px solid #dfdfdf;
   border-radius: 6px;
   padding: 8px;
 }
@@ -107,14 +107,14 @@ QPushButton[role="close"][variant="default"]:pressed {
 QPushButton[role="close"][variant="default"]:disabled {
   background: #d9d9d9;
   color: #222222;
-  border-color: #c8c8c8;
+  border-color: #d0d0d0;
 }
 
 QPushButton
 {
   background: #e5e5e5;
   color: #000000;
-  border: 1px solid #d5d5d5;
+  border: 1px solid #dfdfdf;
   border-radius: 6px;
   padding: 8px;
 }
@@ -126,14 +126,14 @@ QFrame[role="frame-button"][variant="default"] * {
 QFrame[role="frame-button"][variant="default"] {
   background: #e5e5e5;
   color: #000000;
-  border: 1px solid #d5d5d5;
+  border: 1px solid #dfdfdf;
   border-radius: 14px;
   padding: 6px;
 }
 
 QWidget[role="in-tab"][variant="default"] QFrame[role="frame-button"][variant="default"] {
   background: #e5e5e5;
-  border: 1px solid #d5d5d5;
+  border: 1px solid #dfdfdf;
 }
 
 QFrame[role="frame-button"][variant="default"]:hover,
@@ -167,7 +167,7 @@ QFrame[role="frame-button"][variant="default"][state="dissabled"],
 QPushButton:disabled {
   background: #d9d9d9;
   color: #222222;
-  border-color: #c8c8c8;
+  border-color: #d0d0d0;
 }
 
 QLineEdit, QTextEdit, QPlainTextEdit, QSpinBox, QDoubleSpinBox {
@@ -242,7 +242,7 @@ QScrollBar::handle:horizontal:pressed {
 
 QScrollBar::handle:vertical:disabled,
 QScrollBar::handle:horizontal:disabled {
-  background: #d9d9d9;
+  background: #d0d0d0;
 }
 
 QScrollBar::add-line:vertical,
@@ -255,7 +255,7 @@ QScrollBar::sub-line:horizontal {
 
 QWidget[role="in-tab"][variant="default"] {
   background: #f5f5f5;
-  border: 1px solid #e0e0e0;
+  border: 1px solid #f0f0f0;
   border-top-right-radius: 14px;
   border-bottom-left-radius: 14px;
   border-bottom-right-radius: 14px;
@@ -266,9 +266,9 @@ QWidget[role="in-tab"][variant="default"] QWidget {
 }
 
 QWidget[role="in-tab"][variant="default"] QLineEdit,
-QWidget[role="in-tab"][variant="default"] QSpinBox,
-QWidget[role="in-tab"][variant="default"] QDoubleSpinBox,
-QWidget[role="in-tab"][variant="default"] QComboBox {
+QSpinBox,
+QDoubleSpinBox,
+QComboBox {
   padding: 4px;
   border-radius: 6px;
   background: #ffffff;
@@ -289,7 +289,7 @@ QGroupBox {
   padding-bottom: 2px;
   color: #000000;
   border-radius: 8px;
-  border: 1px solid #d5d5d5;
+  border: 1px solid #dfdfdf;
 }
 
 QTabBar::tab {
@@ -307,7 +307,7 @@ QTabBar::tab:selected {
 QTabBar::tab:!selected {
   background: #e5e5e5;
   color: #000000;
-  border: 1px solid #d5d5d5;
+  border: 1px solid #dfdfdf;
   border-bottom: none;
   border-top-left-radius: 6px;
   border-top-right-radius: 6px;
@@ -369,7 +369,7 @@ QSpinBox::down-button,
 QDoubleSpinBox::up-button,
 QDoubleSpinBox::down-button
 {
-  background-color: #d5d5d5;
+  background-color: #dfdfdf;
   border: none;
   padding: 2px;
   margin-top: 1px;
@@ -379,7 +379,7 @@ QDoubleSpinBox::down-button
 }
 
 QComboBox::drop-down {
-  background: #d5d5d5;
+  background: #f5f5f5;
   border: none;
   border-radius: 4px;
   margin: 4px;
@@ -397,7 +397,7 @@ QSpinBox::down-button:hover,
 QDoubleSpinBox::up-button:hover,
 QDoubleSpinBox::down-button:hover
 {
-  background-color: #e5e5e5;
+  background-color: #ffffff;
 }
 
 QComboBox::drop-down:pressed,
@@ -411,8 +411,6 @@ QDoubleSpinBox::down-button:pressed
 
 QWidget[role="node-list"][variant="default"],
 QWidget[role="node-list"][variant="default"] QWidget {
-  background: #ffffff;
-  border-radius: 6px;
   margin: 0;
 }
 
@@ -429,16 +427,20 @@ QMessageBox {
 }
 
 /* Status bar */
-QFrame[role="status-bar"][variant="default"][state="normal"] {
-  background: #f5f5f5;
-  border: 1px solid #e0e0e0;
-  border-radius: 6px;
+QFrame[role="status-bar"] {
+  border: none;
   margin: 0px;
   padding: 0px;
 }
 
+QFrame[role="status-bar"] QLabel {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
 QFrame[role="central"] QTabWidget::pane {
-  border: 1px solid #d5d5d5;
+  border: 1px solid #dfdfdf;
   border-radius: 8px;
 }
 
@@ -479,7 +481,7 @@ QLabel[role="info_label"][variant="default"][state="normal"] {
 
 QFrame[frameShape="4"],
 QFrame[frameShape="5"] {
-  background-color: #d5d5d5;
+  background-color: #dfdfdf;
 }
 
 /*RADIO BUTTONS AND CHECKBOXES borders #0090ff*/
